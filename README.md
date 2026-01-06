@@ -56,5 +56,12 @@ Background in Marketing, which brings a creative and strategic perspective to da
 ![Google Workspace](https://img.shields.io/badge/-Google%20Workspace-0D1117?style=for-the-badge&logo=google&logoColor=4285F4)&nbsp;
 ![OneNote](https://img.shields.io/badge/-OneNote-0D1117?style=for-the-badge&logo=microsoft-onenote&logoColor=7719AA)&nbsp;
 
+---
+
+<p align="center">
+✨✨✨<br>
+<strong>Obrigada por visitar meu perfil!</strong><br>
+Fique à vontade para conhecer meus projetos e análises.
+</p>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff00ff&height=120&section=footer"/>
