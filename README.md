@@ -21,15 +21,12 @@ Data Analyst with experience in transforming raw data into clear and actionable 
 
 Background in Marketing, which brings a creative and strategic perspective to data analysis, combining Excel, Power BI and Python to clean, analyze and visualize data that supports business decisions.
  
-### Main skills:
-
-![Excel](https://img.shields.io/badge/-Excel-0D1117?style=for-the-badge&logo=microsoft-excel&logoColor=217346)&nbsp;
-![Power BI](https://img.shields.io/badge/-Power%20BI-0D1117?style=for-the-badge&logo=powerbi&logoColor=F2C811)&nbsp;
-![SQL](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=336791)&nbsp;
-![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB)&nbsp;
  
 ### Tools:
 ### 📊 Data & BI
+![Excel](https://img.shields.io/badge/-Excel-0D1117?style=for-the-badge&logo=microsoft-excel&logoColor=217346)&nbsp;
+![SQL](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=336791)&nbsp;
+![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB)&nbsp;
 ![Power BI](https://img.shields.io/badge/-Power%20BI-0D1117?style=for-the-badge&logo=powerbi&logoColor=F2C811)&nbsp;
 ![Tableau](https://img.shields.io/badge/-Tableau-0D1117?style=for-the-badge&logo=tableau&logoColor=E97627)&nbsp;
 ![Looker Studio](https://img.shields.io/badge/-Looker%20Studio-0D1117?style=for-the-badge&logo=google&logoColor=4285F4)&nbsp;
