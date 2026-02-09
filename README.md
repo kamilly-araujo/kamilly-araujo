@@ -17,9 +17,9 @@
 </div>
 
 ### About me
-Data Analyst with experience in transforming raw data into clear and actionable insights.  
+Sou Analista de Dados com experiência em transformar dados brutos em insights claros e acionáveis para o negócio, com atuação em e-commerce, monitoramento de KPIs, análise de performance e construção de relatórios.
 
-Background in Marketing, which brings a creative and strategic perspective to data analysis, combining Excel, Power BI and Python to clean, analyze and visualize data that supports business decisions.
+Tenho formação em Marketing, com uma perspectiva estratégica e orientada a storytelling para a análise de dados. Destaco minha capacidade de estruturar análises de forma lógica, clara e contextualizada, conectando dados a decisões de negócio. Tenho experiência na análise de campanhas promocionais e no acompanhamento de indicadores operacionais.
  
  
 ### Tools:
